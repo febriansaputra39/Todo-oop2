@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Todologic } from "./assets/Todologic";
+import { Todologic } from "./Todologic";
 import "./App.css";
 
 const initialTasks = [];
