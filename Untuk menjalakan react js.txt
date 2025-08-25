@@ -1,0 +1,2 @@
+untuk mau jalanin react nya siapkan dahulu node js, jangan lupa di install, setelah anda extrak folder nya dan juga sudah selesai pemasangan node js nya, lanjut buka terminal ctrl + ` atau klik garis tiga habis itu buka terminal tersebut. setelah selesai di buka terminal silahkan masukkan perintah nya itu: npm run dev
+setelah anda masukkan perintah tersebut kan muncul  link port pada vite tersebut anda bisa copy link atau di ctrl + klik. semoga membantu
